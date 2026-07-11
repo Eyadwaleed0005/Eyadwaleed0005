@@ -49,3 +49,81 @@ I enjoy transforming product ideas and UI/UX designs into reliable mobile applic
 * 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/eyad-waleed-931144256/)
 
 <br clear="both"/>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+
+<a href="https://flutter.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48"/>
+</a>
+
+<a href="https://dart.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="48" height="48"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
+</a>
+
+<a href="https://developer.android.com/studio" target="_blank">
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="48" height="48"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="48" height="48"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48"/>
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48"/>
+</a>
+
+<a href="https://github.com/features/actions" target="_blank">
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48" height="48"/>
+</a>
+
+</p>
+
+---
+
+## 💻 Technologies
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+
+<img src="https://img.shields.io/badge/Bloc-00B4AB?style=for-the-badge&logo=flutter&logoColor=white" alt="Bloc"/>
+
+<img src="https://img.shields.io/badge/Clean_Architecture-6C63FF?style=for-the-badge" alt="Clean Architecture"/>
+
+<img src="https://img.shields.io/badge/Unit_Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Unit Testing"/>
+
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+
+<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+
+</p>
