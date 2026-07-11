@@ -21,8 +21,7 @@
 align="right"
 alt="Developer Coding GIF"
 src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-width="330px"
-hspace="20"
+width="250px"
 />
 
 I'm a **Mobile Software Engineer** specializing in building cross-platform mobile applications using the **Flutter framework** and the **Dart programming language**.
@@ -128,3 +127,4 @@ I enjoy transforming product ideas and UI/UX designs into reliable mobile applic
 <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
 
 </p>
+
