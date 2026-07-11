@@ -19,12 +19,12 @@
 
 <img
 align="right"
-alt="Mobile App Development and Coding"
-src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"
+alt="Developer Coding GIF"
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
 width="360px"
 />
 
-I'm a **Mobile Software Engineer** specializing in building cross-platform mobile applications using the **Flutter framework** and the **Dart programming language**.
+I'm a **Mobile Software Engineer** and a graduate of the **Faculty of Artificial Intelligence**, specializing in building cross-platform mobile applications using the **Flutter framework** and the **Dart programming language**.
 
 I focus on developing scalable, maintainable, and production-ready applications using **Clean Architecture, automated testing, Firebase services, RESTful APIs, and CI/CD pipelines**.
 
@@ -34,6 +34,7 @@ I enjoy transforming product ideas and UI/UX designs into reliable mobile applic
 
 ## 🧐 More About Me
 
+* 🎓 Graduate of the **Faculty of Artificial Intelligence**
 * 📱 I build cross-platform mobile applications using **Flutter and Dart**
 * 🏗️ I apply **Clean Architecture**, SOLID principles, and the Repository Pattern
 * 🧪 I work with **Unit Testing, Widget Testing, and Integration Testing**
@@ -127,3 +128,73 @@ I enjoy transforming product ideas and UI/UX designs into reliable mobile applic
 <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
 
 </p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=Eyadwaleed0005&show_icons=true&theme=tokyonight&hide_border=true"
+alt="Eyad Waleed GitHub Statistics"
+/>
+
+<img
+width="49%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Eyadwaleed0005&theme=tokyonight&hide_border=true"
+alt="Eyad Waleed GitHub Streak"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+width="45%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyadwaleed0005&layout=compact&theme=tokyonight&hide_border=true"
+alt="Most Used Languages"
+/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Eyadwaleed0005&theme=tokyo-night&hide_border=true&area=true"
+alt="GitHub Contribution Graph"
+/>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/eyad-waleed-931144256/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Eyad%20Waleed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ziadwaleed017@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Eyadwaleed0005" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Eyadwaleed0005-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>Building scalable and reliable mobile applications with Flutter.</b>
+</p>
+
