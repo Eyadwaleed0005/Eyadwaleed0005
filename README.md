@@ -19,8 +19,8 @@
 
 <img
 align="right"
-alt="Mobile Software Engineer GIF"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+alt="Mobile App Development and Coding"
+src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"
 width="360px"
 />
 
