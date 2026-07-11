@@ -17,9 +17,16 @@
 <br/>
 <br/>
 
+<img
+align="right"
+alt="Mobile Software Engineer GIF"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+width="360px"
+/>
+
 I'm a **Mobile Software Engineer** specializing in building cross-platform mobile applications using the **Flutter framework** and the **Dart programming language**.
 
-I focus on developing scalable, maintainable, and production-ready applications using clean architecture, automated testing, Firebase services, RESTful APIs, and CI/CD pipelines.
+I focus on developing scalable, maintainable, and production-ready applications using **Clean Architecture, automated testing, Firebase services, RESTful APIs, and CI/CD pipelines**.
 
 I enjoy transforming product ideas and UI/UX designs into reliable mobile applications while following software engineering principles and best practices.
 
@@ -30,7 +37,7 @@ I enjoy transforming product ideas and UI/UX designs into reliable mobile applic
 * 📱 I build cross-platform mobile applications using **Flutter and Dart**
 * 🏗️ I apply **Clean Architecture**, SOLID principles, and the Repository Pattern
 * 🧪 I work with **Unit Testing, Widget Testing, and Integration Testing**
-* 🚀 I use **CI/CD pipelines** to automate application testing, building, and deployment
+* 🚀 I use **CI/CD pipelines** to automate testing, building, and deployment
 * 🔥 I integrate applications with **Firebase Authentication, Firestore, Cloud Messaging, and Remote Config**
 * 🌐 I integrate mobile applications with RESTful APIs using **Dio**
 * 🧠 I use **Cubit and Bloc** for state management
@@ -41,26 +48,4 @@ I enjoy transforming product ideas and UI/UX designs into reliable mobile applic
 * 🤝 I am open to collaborating on Flutter and mobile software engineering projects
 * 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/eyad-waleed-931144256/)
 
----
-
-## 💻 Core Skills
-
-* Mobile Software Engineering
-* Flutter Framework
-* Dart Programming Language
-* Clean Architecture
-* SOLID Principles
-* Design Patterns
-* Cubit and Bloc
-* Unit Testing
-* Widget Testing
-* Integration Testing
-* CI/CD
-* Firebase
-* RESTful APIs
-* Dio
-* SQLite and Hive
-* Git and GitHub
-* Google Maps SDK
-* Google Play Deployment
-
+<br clear="both"/>
