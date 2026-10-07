@@ -39,25 +39,6 @@ I have hands-on experience transforming product ideas and UI/UX designs into rel
 
 ---
 
-## 💼 Current Role
-
-<img
-  align="left"
-  src="https://scontent.fcai20-2.fna.fbcdn.net/v/t39.30808-6/727571632_122102257269364545_4802333144588125838_n.jpg?stp=dst-jpg_tt6&cstp=mx1254x1254&ctp=s1254x1254&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=jh4RlM9UxJ4Q7kNvwEv8paq&_nc_oc=Adp5gQcQgF8uSQfZmhRGl3AU_cRs_8NovCUjKbRpe1M-jaEA0z_IYABfIQDIDsnMalI&_nc_zt=23&_nc_ht=scontent.fcai20-2.fna&_nc_gid=VSzljsyd5k7YTFH2_R7yyg&_nc_ss=7b2a8&oh=00_AQIcdCshL7xqucPLZrGoE_OO6iiYtRJZotYvMm_IOMBclQ&oe=6AAFA219"
-  alt="Fame X Logo"
-  width="130"
-/>
-
-### Mobile Software Engineer
-
-**Fame X**
-
-Building scalable and production-ready mobile applications using Flutter while contributing to application architecture, Firebase integration, performance optimization, and Google Play production releases.
-
-<br clear="both"/>
-
----
-
 ## 🧐 More About Me
 
 - 📱 I build cross-platform mobile applications using **Flutter and Dart**
