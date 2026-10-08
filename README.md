@@ -37,8 +37,6 @@ I have hands-on experience transforming product ideas and UI/UX designs into rel
 
 <br clear="both"/>
 
----
-
 ## 🧐 More About Me
 
 - 📱 I build cross-platform mobile applications using **Flutter and Dart**
@@ -65,18 +63,42 @@ I have hands-on experience transforming product ideas and UI/UX designs into rel
 ## 🛠️ Languages and Tools
 
 <p align="left">
-<a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48"/></a>
-<a href="https://dart.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="48" height="48"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48"/></a>
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/></a>
-<a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48" height="48"/></a>
-<a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="48" height="48"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="48" height="48"/></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48"/></a>
-<a href="https://play.google.com/console/about/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="Google Play Console" width="48" height="48"/></a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48"/>
+  </a>
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="48" height="48"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="48" height="48"/>
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="48" height="48"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="48" height="48"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48"/>
+  </a>
+  <a href="https://play.google.com/console/about/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="Google Play Console" width="48" height="48"/>
+  </a>
 </p>
 
 ---
@@ -84,20 +106,20 @@ I have hands-on experience transforming product ideas and UI/UX designs into rel
 ## 💻 Technologies
 
 <p align="left">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-<img src="https://img.shields.io/badge/Dio-5A29E4?style=for-the-badge&logo=dart&logoColor=white" alt="Dio"/>
-<img src="https://img.shields.io/badge/Bloc_%2F_Cubit-00B4AB?style=for-the-badge&logo=flutter&logoColor=white" alt="Bloc and Cubit"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-6C63FF?style=for-the-badge" alt="Clean Architecture"/>
-<img src="https://img.shields.io/badge/SOLID_Principles-2C3E50?style=for-the-badge" alt="SOLID Principles"/>
-<img src="https://img.shields.io/badge/Design_Patterns-8E44AD?style=for-the-badge" alt="Design Patterns"/>
-<img src="https://img.shields.io/badge/Unit_Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Unit Testing"/>
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps"/>
-<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Dio-5A29E4?style=for-the-badge&logo=dart&logoColor=white" alt="Dio"/>
+  <img src="https://img.shields.io/badge/Bloc_%2F_Cubit-00B4AB?style=for-the-badge&logo=flutter&logoColor=white" alt="Bloc and Cubit"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-6C63FF?style=for-the-badge" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/SOLID_Principles-2C3E50?style=for-the-badge" alt="SOLID Principles"/>
+  <img src="https://img.shields.io/badge/Design_Patterns-8E44AD?style=for-the-badge" alt="Design Patterns"/>
+  <img src="https://img.shields.io/badge/Unit_Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Unit Testing"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps"/>
+  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
 </p>
 
 ---
@@ -112,6 +134,32 @@ I have hands-on experience transforming product ideas and UI/UX designs into rel
 - Automated testing and CI/CD workflows
 - Google Play production deployment
 - Responsive and reusable user interfaces
+
+---
+
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif" width="50" alt="Statistics animation"/> About Some Stats
+
+<div align="center">
+  <img
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyadwaleed0005&layout=compact&theme=algolia"
+    alt="Eyad Waleed's most used languages"
+  />
+  <img
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/?username=Eyadwaleed0005&show_icons=true&theme=algolia"
+    alt="Eyad Waleed's GitHub stats"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Eyadwaleed0005&theme=algolia&background=0d1117&hide_border=true"
+    alt="Eyad Waleed's GitHub contribution streak"
+  />
+</div>
 
 ---
 
